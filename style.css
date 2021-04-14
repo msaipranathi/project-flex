@@ -244,9 +244,9 @@ a:hover {
     border: 1px solid white;
 }
 .reviews {
-    /* background-color: black; */
+    
     flex: 1;
-    text-align: center;
+    
 }
 .rev-1 {
     background-color: white;
@@ -264,7 +264,7 @@ a:hover {
     align-items: center;
 }
 .rev-para {
-    /* padding: 10px; */
+    text-align:center;
 }
 .rev-img {
     width: 40px;
